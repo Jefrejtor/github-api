@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GitHub GET API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: euro-pc
+Implementation-Vendor-Id: pack
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/github-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
