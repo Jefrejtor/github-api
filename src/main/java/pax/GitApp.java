@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitApp {
 
 	public static void main(String[] args) {
-		System.getProperties().put( "server.port", 80 );
+		System.getProperties().put( "server.port", 8008 );
 		SpringApplication.run(GitApp.class, args);
 
 	}

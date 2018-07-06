@@ -31,5 +31,6 @@
 		<artifactId>guava</artifactId>
 		<version>16.0.1</version>
 	</dependency>
+</dependencies>
   
 </project>
