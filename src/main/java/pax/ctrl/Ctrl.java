@@ -56,8 +56,7 @@ public class Ctrl {
 	            obj.addProperty("createdAt", date);
 	           
 	            Gson gsn = new GsonBuilder().serializeNulls().setPrettyPrinting().create();
-	            String prettyJson = gsn.toJson(obj);	            
-	            return prettyJson;
+	            return gsn.toJson(obj);
 	            
 	        }
 	
